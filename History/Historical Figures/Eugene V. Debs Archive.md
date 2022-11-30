@@ -1,4 +1,3 @@
-Clipped from: [https://www.marxists.org/archive/debs/index.htm](https://www.marxists.org/archive/debs/index.htm)
 
 ##### Announcement: The Eugene V. Debs Internet Archive in conjunction with Tim Davenport will be publishing a 6 volume collection of Eugene V. Debs writings. Haymarket Books will be the publishers of the 6 volumes. For weekly updates on this valuable historical project, please [click here](https://debsproject.org/blog/).
 
@@ -1283,3 +1282,5 @@ A full collection of Biographies, Critiques, and Memiors of Eugine V. Debs is lo
  [Prince and Proletaire](https://www.marxists.org/archive/debs/works/xx/prince.htm) (unknown)
 
 [Biographies and Critiques of E.V. Debs](https://www.marxists.org/archive/debs/bio/index.htm) | [MIA Index](https://www.marxists.org/index.htm)
+
+Clipped from: [https://www.marxists.org/archive/debs/index.htm](https://www.marxists.org/archive/debs/index.htm)
