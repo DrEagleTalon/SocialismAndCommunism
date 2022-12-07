@@ -1,4 +1,8 @@
+# 1. Ableism
+
 [https://www.reddit.com/r/socialism/comments/5dt56z/so_we_need_to_talk_about_ableism/](https://www.reddit.com/r/socialism/comments/5dt56z/so_we_need_to_talk_about_ableism/)
+
+[r/Socialism Post - We need to Talk about Ableism][ableism post]
 
 So... we need to talk. About ableism.
 
@@ -20,12 +24,12 @@ What are some examples?
 
 Ableism, unfortunately, is enmeshed in all kinds of behaviours, but the following list should give a general guide on where to watch for it. In ascending order, the examples are more readily accepted to be ableist, and in descending order, they are more likely to be found online:
 
-1.  Abusing someone's abilities or their lack of social power because of it for your own gain in any manner,
-2.  Using ableist slurs generally considered impolite (e.g. r-t-rd, ps-ch-t-c, m-r-n, etc.),
-3.  Saying ableist slurs not generally considered impolite (e.g. st-p-d, id--t, d-mb, cr-zy, etc.),
-4.  Gaslighting neurodivergent people or dismissing their judgment in any manner,
-5.  Generally insulting one's intelligence specifically or their physical abilities (no slurs necessary for this one), and
-6.  Failing to attempt to make information, media and activities accessible to people with different abilities.
+1. Abusing someone's abilities or their lack of social power because of it for your own gain in any manner,
+2. Using ableist slurs generally considered impolite (e.g. r-t-rd, ps-ch-t-c, m-r-n, etc.),
+3. Saying ableist slurs not generally considered impolite (e.g. st-p-d, id--t, d-mb, cr-zy, etc.),
+4. Gaslighting neurodivergent people or dismissing their judgment in any manner,
+5. Generally insulting one's intelligence specifically or their physical abilities (no slurs necessary for this one), and
+6. Failing to attempt to make information, media and activities accessible to people with different abilities.
 
 The first two examples are probably the easiest to avoid. Number three (3) is also trivial, but may be complicated by the propensity to act in a manner similar to example five (5). It deserves special attention.
 
@@ -39,10 +43,10 @@ How do I make things more accessible?
 
 Now I have to preface this with a bit of amelioration. We can't omit this aspect of ableism because it does make life harder for people with different abilities than typically expected. However, accessibility is different from the rest of the issues raised here because instead of preventing ourselves from doing something, we must proactively help out. How can we help out? Some ways are easier than others, but here are some examples:
 
-1.  Searching for videos with captions/subtitles beforehand, looking for them afterward, writing some yourself, or just mentioning that there are none available,
-2.  Making art for posters/infographics/videos sensitive to colour vision deficiencies,
-3.  Writing descriptions/transcripts of images, avoiding text-as-images, and
-4.  Providing 101/entry-level information whenever appropriate.
+1. Searching for videos with captions/subtitles beforehand, looking for them afterward, writing some yourself, or just mentioning that there are none available,
+2. Making art for posters/infographics/videos sensitive to colour vision deficiencies,
+3. Writing descriptions/transcripts of images, avoiding text-as-images, and
+4. Providing 101/entry-level information whenever appropriate.
 
 What will the moderators do?
 
@@ -61,3 +65,43 @@ Sources and further information
 [Video "Autism and the Class Struggle"](https://www.youtube.com/watch?v=OPfsDx3bQwA)
 
 [Another Alternative to replacement words](https://www.autistichoya.com/p/ableist-words-and-terms-to-avoid.html)
+
+## 1.3 Glossary
+
+### 1.3.1 Links
+
+#### 1.3.1.1 Sources and Information Links
+
+#### 1.3.1.2 Link-Image Reference Definition
+
+[ableism post]: https://www.reddit.com/r/socialism/comments/5dt56z/so_we_need_to_talk_about_ableism/
+
+### 1.3.2 Document Details
+
+______________________________________________________________
+
+#### 1.3.2.1 *Tags:*
+
+______________________________________________________________
+
+// #UnderConstruction, #Wiki, #Resource
+
+______________________________________________________________
+
+#### 1.3.2.2 *Notes:*
+
+______________________________________________________________
+
+// *This Area for Notes or Announcements of any kind.*
+// Make sure to leave a Blank Line above and below the notes.
+
+______________________________________________________________
+
+#### 1.3.2.3 *Version:*
+
+______________________________________________________________
+
+// V-0.1
+// 2022-11-30 , @DrEagleTalon , u/DrEagleTalon
+
+______________________________________________________________

@@ -41,3 +41,22 @@
 		1. Do not post content which has nothing to do with socialism as a sociopolitical movement.
 	11. Content violating the General Bans Policy: 
 		1. Submissions violating one or more [rules](SocialismAndCommunism/Wiki/Rules.md) listed in our [General Bans Policy](https://www.reddit.com/r/socialism/wiki/index/generalbans)(bigotry, police/prison apologia, trolling, etc) or Reddit's content policies (doxxing, incitement of violence, brigading) will be removed and may be subject to bans as specified according to the GBP.
+
+
+__________________________________________________________________
+*Tags:* 
+__________________________________________________________________
+#UnderConstruction, #Wiki, #Rules, #Governance, 
+__________________________________________________________________
+
+*Notes:
+__________________________________________________________________
+**UNDER CONSTRUCTION**
+*Needs reviewed by Governance Board and Updated.*
+__________________________________________________________________
+
+*Version:
+__________________________________________________________________
+V-0.1
+2022-11-30 , @DrEagleTalon , u/DrEagleTalon
+__________________________________________________________________

@@ -179,3 +179,22 @@ Who Are You in 1917 Russia:  [[https://arzamas.academy/materials/1269](https://
 World's Smallest Political Quiz:  [[https://www.theadvocates.org/quiz/](https://www.theadvocates.org/quiz/)](https://www.theadvocates.org/quiz/%5d(https:/www.theadvocates.org/quiz/))
 
 There you go. Feel free to direct anyone asking for new tests to this post.
+
+
+__________________________________________________________________
+*Tags:* 
+__________________________________________________________________
+#UnderConstruction, #Wiki, #Resource, #LinkBoard, 
+__________________________________________________________________
+
+*Notes:
+__________________________________________________________________
+**UNDER CONSTRUCTION**
+*Links need to be verified and updated and the list itself needs updated. Formatting needs done as well.*
+__________________________________________________________________
+
+*Version:
+__________________________________________________________________
+V-0.1
+2022-11-30 , @DrEagleTalon , u/DrEagleTalon
+__________________________________________________________________

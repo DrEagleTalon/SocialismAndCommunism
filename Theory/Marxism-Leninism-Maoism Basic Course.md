@@ -12,7 +12,7 @@ ShareAlike 4.0 International (CC BY-SA 4.0)
 https://creativecommons.org/licenses/by-
 sa/4.0/
 
-## CONTENTS
+# CONTENTS
 
 Chapter 1: Introduction
 
@@ -78,7 +78,7 @@ Chapter 31: The Great Proletarian Cultural Revolution
 
 Chapter 32: After The Death of Mao
 
-## Introduction
+# Chapter 1 Introduction
 
 Most of us revolutionary activists are ‘practical’  
 people. We feel, “Why bother about ideology, and  
@@ -152,9 +152,7 @@ being.
 
 Come; let’s begin our study.
 
-Chapter 2
-
-What is MLM?
+# Chapter 2 What is MLM?
 
 The party leading the revolution is the Communist  
 party; and the ideology guiding the thinking and  
@@ -299,10 +297,7 @@ but it need not be so. If we concentrate and try to
 understand the basic essence of each aspect within its  
 historical context we will be able grasp a lot.
 
-Chapter 3
-
-Socio-economic Conditions Leading to The Birth  
-of Marxism
+# Chapter 3 Socio-economic Conditions Leading to The Birth of Marxism
 
 As we will see later, Marxismteaches us that any ideas  
 or theory are always the product of some material  
@@ -329,25 +324,8 @@ understand howMarxismwas born we will first have
 to take a look at the Europe of that time and see the  
 principal factors in the socioeconomic situation then.
 
-1.  The most important factor was the Industrial  
-    Revolution, which lasted approximately from1760 to
-
-1830, and, though it was centred in England,  
-influenced the whole world. The Industrial  
-Revolution was named as such because it was during  
-these seventy years that the world first saw an  
-explosive and revolutionary upsurge in industrial  
-development. It was at this time that modernlarge  
-factories were first set up and grewat a very rapid  
-pace, particularly in England. Along with this was the  
-tremendous expansion of the worldmarket, which  
-sent English manufactured goods to all parts of the  
-world. Though other countries like France, Holland,  
-and parts of Germany and the USAalso set up large  
-factories, this period was heavily dominated by  
-England. Its domination was such that it came to be  
-calledthe ‘workshopof the world’ which supplied  
-manufactured goods to all countries.
+## 1
+The most important factor was the Industrial Revolution, which lasted approximately from 1760 to 1830, and, though it was centred in England, influenced the whole world. The Industrial Revolution was named as such because it was during these seventy years that the world first saw an explosive and revolutionary upsurge in industrial development. It was at this time that modernlarge factories were first set up and grewat a very rapid pace, particularly in England. Along with this was the tremendous expansion of the worldmarket, which sent English manufactured goods to all parts of the world. Though other countries like France, Holland, and parts of Germany and the USAalso set up large factories, this period was heavily dominated by England. Its domination was such that it came to be calledthe ‘workshopof the world’ which supplied manufactured goods to all countries.
 
 The Industrial Revolution transformed the capitalist  
 class. This class was earlier economically not so strong  
@@ -361,11 +339,7 @@ challenge the feudal classes, which were, till then, still
 the ruling classes.
 
 Alongside the modern industrial bourgeoisie the  
-Industrial Revolution also gave birth to another class
-
--   the modern industrial working class, or
-
-proletariat. This class consisting of workers working  
+Industrial Revolution also gave birth to another class the modern industrial working class, or proletariat. This class consisting of workers working  
 together in thousands in large factories was also far  
 different fromthe earlier workers working insmall  
 groups in tiny workshops. The modern proletarians  
@@ -379,27 +353,8 @@ large numbers assembled together in single factories
 under one roof. Their position within society made  
 them the potentially most revolutionary force in  
 history.
-
-2.  The other important factor was that which  
-    dominated the political situationinEurope at that  
-    time. It was the spate of bourgeois democratic  
-    revolutions led by the rising capitalist class, of which  
-    the most important was theFrench Revolution of
-
-1789.  The French Revolution not only brought about  
-    very radical changes in France. It also led to the  
-    Napoleonic wars where the armies of the French  
-    bourgeoisie conquered almost the whole of Europe  
-    and introduced bourgeois reforms abolishing  
-    feudalism wherever they went. They thus dealt a  
-    deathblowto the kings and old feudal classes. Though  
-    the French armies were later defeated, the old ruling  
-    classes could never recover their old position. The  
-    modern bourgeoisie continued its revolutionary wave  
-    with numerous other bourgeois revolutions, which
-
-resulted in the conclusive defeat of the feudal classes  
-and the victory of capitalismas a world system.
+## 2
+ The other important factor was that which dominated the political situationinEurope at thatvtime. It was the spate of bourgeois democratic revolutions led by the rising capitalist class, of which the most important was theFrench Revolution of 1789. The French Revolution not only brought about very radical changes in France. It also led to the Napoleonic wars where the armies of the French bourgeoisie conquered almost the whole of Europe and introduced bourgeois reforms abolishing feudalism wherever they went. They thus dealt a deathblowto the kings and old feudal classes. Though the French armies were later defeated, the old ruling classes could never recover their old position. The modern bourgeoisie continued its revolutionary wave with numerous other bourgeois revolutions, whichcresulted in the conclusive defeat of the feudal classes and the victory of capitalismas a world system.
 
 Thus bothat the economic and political levels the  
 period of the birth of Marxismwas a period of great  
@@ -407,13 +362,8 @@ advances and victories for the capitalist class when it
 was conclusively establishing its rule in the most  
 advanced and dominant countries of the world.
 
-3.  Though this was the period of the greatest  
-    advancement of the bourgeoisie, the principal factor  
-    that gave birth to Marxismduring this period was the  
-    rise of working class consciousness and proletarian  
-    organisations and movements thus signaling  
-    the emergence of the proletariat as an independent  
-    and self-conscious force.
+## 3
+Though this was the period of the greatest advancement of the bourgeoisie, the principal factor that gave birth to Marxismduring this period was the rise of working class consciousness and proletarian organisations and movements thus signaling the emergence of the proletariat as an independent and self-conscious force.
 
 This rise of a class-conscious proletariat first took  
 place in England and France. This was primarily  
@@ -515,10 +465,7 @@ change them. Therefore in the years to come it was
 Marxism alone that would prove to be the true  
 proletarian ideology.
 
-Chapter 4
-
-Early Life of Marx and Engels Until they became  
-Marxists
+# Chapter 4 Early Life of Marx and Engels Until they became Marxists
 
 Obviously nobody can be born a Marxist–not even  
 Marx. There has to be a process through which ideas  
@@ -816,21 +763,12 @@ frommorning to night. Oftenthey tried to drown
 their sorrows in drink. Child labour and occupational  
 lung diseases were rampant.
 
-Engels attended the Barmen town school till the age of
-
-14.  He was then sent to the gymnasium at the  
+Engels attended the Barmen town school till the age of 14.  He was then sent to the gymnasium at the  
     neighbouring town of Elberfeld (today both Barmen  
     and Elberfeld are merged into one town).  
     This gymnasium (secondary school) had the  
     reputation of being one of the best in Prussia. He was  
-    an intelligent student with an early flair for learning  
-    languages. He was also part of a poetry circle among  
-    the students and wrote his own poetry andshort  
-    stories. He was planning to study economy and law  
-    but his father was more interested in making his eldest  
-    son learn the family business. At the age of 17 he was  
-    suddenly removed fromschool and made to join as an  
-    apprentice in his father’s office.
+    an intelligent student with an early flair for learning  languages. He was also part of a poetry circle among the students and wrote his own poetry andshort stories. He was planning to study economy and law but his father was more interested in making his eldest son learn the family business. At the age of 17 he was suddenly removed fromschool and made to join as an apprentice in his father’s office.
 
 Though this was the end of Engels’formal schooling  
 he continued to use his free time to study history,  

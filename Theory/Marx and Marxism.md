@@ -3584,3 +3584,23 @@ In this part, the rate of profit is numerically different from the rate of surpl
 and surplus-value are treated as having the same numerical magnitude but only a different form.  
 In the next part we shall see how the alienation goes further, and how profit represents a  
 magnitude differing also numerically from surplus-value.
+
+
+
+__________________________________________________________________
+*Tags:* 
+__________________________________________________________________
+#UnderConstruction, #Wiki, #Import, #Resource, #LinkBoard 
+__________________________________________________________________
+
+*Notes:
+__________________________________________________________________
+**UNDER CONSTRUCTION**
+*Needs reviewed for formatting and links*
+__________________________________________________________________
+
+*Version:
+__________________________________________________________________
+V-0.1
+2022-11-30 , @DrEagleTalon , u/DrEagleTalon 
+__________________________________________________________________

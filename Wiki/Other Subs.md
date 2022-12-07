@@ -1,4 +1,4 @@
-![Reddit](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAIRlWElmTU0AKgAAAAgABQESAAMAAAABAAEAAAEaAAUAAAABAAAASgEbAAUAAAABAAAAUgEoAAMAAAABAAIAAIdpAAQAAAABAAAAWgAAAAAAAABgAAAAAQAAAGAAAAABAAOgAQADAAAAAQABAACgAgAEAAAAAQAAABCgAwAEAAAAAQAAABAAAAAAKDLwNgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAJ1JREFUOBFjZMABXrebODAx/N/wn+F/gUjluQU4lDEwYZN4026UANS8HyjHz8jAOB/Ex6YOJIZhAEgxSBNQbiFU00J8hqAYgKxZuPJsAsgAKI3TELgB2DRDXYDXELgBQGdOAGpYCLMZphlGI7kEpA4TvG83UEAXfdtu/B9dDJs6dDVwPjYD4JJQBtwL6BLE8kcNwJKUiQ08mLqBD0QAlWo31MrUmGQAAAAASUVORK5CYII=) Other SubReddits 1
+Other SubReddits 1
 
 Other SubReddits 2
 
@@ -104,3 +104,21 @@ Other SubReddits 3
 -   [/r/tusc](https://www.reddit.com/r/tusc)
 -   [/r/WesternTerrorism](https://www.reddit.com/r/WesternTerrorism)
 -   [/r/youngsocialistunited](https://www.reddit.com/r/youngsocialistunited)
+
+__________________________________________________________________
+*Tags:* 
+__________________________________________________________________
+#UnderConstruction, #Wiki, #LinkBoard, #Resource,
+__________________________________________________________________
+
+*Notes:
+__________________________________________________________________
+**UNDER CONSTRUCTION**
+*Links need verified and updated and the list needs updated too. Formatting needs corrected.*
+__________________________________________________________________
+
+*Version:
+__________________________________________________________________
+V-0.1
+2022-11-30 , @DrEagleTalon , u/DrEagleTalon
+__________________________________________________________________

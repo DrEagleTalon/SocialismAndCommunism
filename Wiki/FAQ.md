@@ -41,4 +41,23 @@ A: Well it's important to put Marx's quote into historical context. At the time,
 
 Q: *Okay, I'm interested. I want to know more.* 
 
-A: In that case let me direct you to our [list of ideologies](http://www.reddit.com/r/socialism/wiki/List_of_Ideologies). I like to tell people "Ten socialists in a room, twenty different opinions." so the only way to get the full picture is to read up, learn, and think!
+A: In that case let me direct you to our [list of ideologies](http://www.reddit.com/r/socialism/wiki/List_of_Ideologies). I like to tell people "Ten socialists in a room, twenty different opinions." so the only way to get the full picture is to read up, learn, and think
+
+
+__________________________________________________________________
+*Tags:* 
+__________________________________________________________________
+#UnderConstruction, #Wiki, #Import, #Resource, 
+__________________________________________________________________
+
+*Notes:
+__________________________________________________________________
+**UNDER CONSTRUCTION**
+*Needs completely redone and all links updated and verified.*
+__________________________________________________________________
+
+*Version:
+__________________________________________________________________
+V-0.1
+2022-11-30 , @DrEagleTalon , u/DrEagleTalon 
+__________________________________________________________________
